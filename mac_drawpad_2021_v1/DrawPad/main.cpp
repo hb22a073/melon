@@ -35,8 +35,11 @@ void DrawMain()
     Sleep(0.5f);
     DrawText("Hello, world!!", -12*14/2, -66, kColorGray);
     
+
     DrawCircle(0,0,150,kColorBlue);
     
     DrawCircle(5,5,150,kColorYellow);
+
+    Drawcircle(0,0,150,kColorDarkBlue);
 }
 
