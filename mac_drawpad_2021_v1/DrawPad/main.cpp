@@ -37,7 +37,14 @@ void DrawMain()
     
 
     DrawCircle(0,0,150,kColorBlue);
+
     DrawCircle(0,0,150,kColorRed);
+
+    DrawCircle(0,0,150,kColorDarkBlue);
+
+
+    
+    DrawCircle(5,5,150,kColorYellow);
 
     DrawCircle(0,0,150,kColorDarkBlue);
 
